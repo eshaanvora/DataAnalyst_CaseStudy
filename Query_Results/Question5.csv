@@ -1,0 +1,1001 @@
+SURVEY_ID,USER_ID,SURVEY_RESPONDED_DATE,RESPONSE1,RESPONSE2,RESPONSE3,PRODUCT
+survey_4,user_2908,8/21/21,"i was able to buy everything on my list",walmart,availability,"Frozen Foods"
+survey_10,user_2952,9/27/21,"i found most of the items on my list",walmart,availability,"Frozen Foods"
+survey_3,user_2907,8/15/21,"i found most of the items on my list",kroger,brand,"Dairy/Dairy Byproducts"
+survey_7,user_2925,9/9/21,"i was able to buy everything on my list",Kroger,Brand,"Frozen Foods"
+survey_7,user_2989,9/11/21,"i was able to buy everything on my list","Sam's Club",Price,"Dairy/Dairy Byproducts"
+survey_5,user_3026,8/24/21,"i was able to buy everything on my list","sam's club",brand,"Laundry/Home Cleaning"
+survey_3,user_3059,8/9/21,"i found most of the items on my list",walmart,price,"Personal Care & Beauty Health"
+survey_3,user_3108,8/15/21,"i was able to buy everything on my list",costco,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_3181,8/11/21,"i found most of the items on my list",walmart,availability,"Frozen Foods"
+survey_2,user_3244,8/2/21,"i was able to buy everything on my list",target,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_3244,8/2/21,"i was able to buy everything on my list",target,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_9,user_3156,9/23/21,"i was able to buy everything on my list","sam's club",availability,"Dairy/Dairy Byproducts"
+survey_2,user_3322,8/3/21,"i was able to buy everything on my list",target,price,"Personal Care & Beauty Health"
+survey_9,user_4338,9/25/21,"i was able to buy everything on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_4413,8/21/21,"i was able to buy everything on my list","sam's club",availability,Beverages
+survey_1,user_4399,8/1/21,"i found most of the items on my list",kroger,price,Bakery/Bread
+survey_1,user_4399,8/1/21,"i found most of the items on my list",kroger,availability,"Frozen Foods"
+survey_2,user_4539,8/2/21,"i found most of the items on my list",target,availability,"Personal Care & Beauty Health"
+survey_3,user_4566,8/10/21,"i found most of the items on my list",target,brand,"Personal Care & Beauty Health"
+survey_3,user_4602,8/9/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_5,user_4635,8/24/21,"i found most of the items on my list",walmart,brand,"Personal Care & Beauty Health"
+survey_2,user_4737,8/2/21,"i was able to buy everything on my list",walmart,price,"Personal Care & Beauty Health"
+survey_6,user_4785,9/3/21,"i found most of the items on my list",Target,Availability,Bakery/Bread
+survey_5,user_4484,8/24/21,"i found most of the items on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_7,user_4588,9/7/21,"i was able to buy everything on my list",Costco,Brand,"Laundry/Home Cleaning"
+survey_10,user_4676,9/28/21,"i found only a few of the items on my list",walmart,price,Bakery/Bread
+survey_8,user_4638,9/19/21,"i was able to buy everything on my list",kroger,availability,"Personal Care & Beauty Health"
+survey_4,user_4766,8/21/21,"i was able to buy everything on my list",walmart,price,"Canned Goods"
+survey_10,user_4795,9/29/21,"i was able to buy everything on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_4795,9/29/21,"i was able to buy everything on my list",walmart,brand,"Personal Care & Beauty Health"
+survey_10,user_4795,9/29/21,"i was able to buy everything on my list",walmart,brand,"Cereal (Ready To Eat)"
+survey_10,user_4795,9/29/21,"i was able to buy everything on my list",walmart,brand,Bakery/Bread
+survey_2,user_4810,8/2/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_3,user_731,8/12/21,"i was able to buy everything on my list",costco,availability,"Dairy/Dairy Byproducts"
+survey_3,user_960,8/15/21,"i found most of the items on my list",albertsons,availability,Beverages
+survey_3,user_1015,8/15/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_4,user_1130,8/20/21,"i was able to buy everything on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_914,9/1/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Vitamins & Supplements"
+survey_3,user_1001,8/13/21,"i was able to buy everything on my list",costco,price,Beverages
+survey_6,user_4857,9/3/21,"i was able to buy everything on my list",Costco,Availability,Bakery/Bread
+survey_9,user_4933,9/24/21,"i found most of the items on my list",walmart,brand,"Cereal (Ready To Eat)"
+survey_9,user_4933,9/24/21,"i found most of the items on my list",walmart,price,"Frozen Foods"
+survey_9,user_4933,9/24/21,"i found most of the items on my list",walmart,price,"Canned Goods"
+survey_5,user_4941,8/25/21,"i was able to buy everything on my list","sam's club",availability,Bakery/Bread
+survey_5,user_4941,8/25/21,"i was able to buy everything on my list","sam's club",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_1,user_4944,8/1/21,"i found most of the items on my list",costco,brand,"Baby Care"
+survey_8,user_4993,9/19/21,"i found most of the items on my list",kroger,availability,"Cereal (Ready To Eat)"
+survey_2,user_5016,8/5/21,"i was able to buy everything on my list",costco,price,"Pet Care"
+survey_2,user_5134,8/2/21,"i was able to buy everything on my list",costco,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_5134,8/2/21,"i was able to buy everything on my list",costco,availability,"Cereal (Ready To Eat)"
+survey_4,user_5122,8/18/21,"i found most of the items on my list",albertsons,brand,"Grains, Rice, Pasta And Sauce"
+survey_4,user_5122,8/18/21,"i found most of the items on my list",albertsons,price,Beverages
+survey_6,user_5146,9/1/21,"i was able to buy everything on my list",Costco,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_5090,9/19/21,"i was able to buy everything on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_5270,8/9/21,"i was able to buy everything on my list",walmart,availability,Coffee/Tea
+survey_3,user_5270,8/9/21,"i was able to buy everything on my list",walmart,brand,"Dairy/Dairy Byproducts"
+survey_9,user_5315,9/22/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_5,user_5326,8/23/21,"i was able to buy everything on my list",walmart,price,Coffee/Tea
+survey_2,user_5200,8/7/21,"i found most of the items on my list",costco,availability,"Vitamins & Supplements"
+survey_3,user_5321,8/12/21,"i found most of the items on my list","sam's club",brand,"Cereal (Ready To Eat)"
+survey_3,user_1463,8/11/21,"i was able to buy everything on my list",kroger,availability,"Canned Goods"
+survey_3,user_1482,8/10/21,"i was able to buy everything on my list",costco,price,"Personal Care & Beauty Health"
+survey_3,user_1482,8/10/21,"i was able to buy everything on my list",costco,price,"Cereal (Ready To Eat)"
+survey_9,user_1553,9/24/21,"i found most of the items on my list",costco,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_1558,8/19/21,"i was able to buy everything on my list","trader joe's",availability,"Frozen Foods"
+survey_9,user_1577,9/26/21,"i was able to buy everything on my list","trader joe's",availability,"Frozen Foods"
+survey_5,user_1620,8/28/21,"i was able to buy everything on my list","sam's club",price,"Personal Care & Beauty Health"
+survey_5,user_1706,8/24/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_2,user_1839,8/8/21,"i found most of the items on my list","sam's club",brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_1851,8/14/21,"i was able to buy everything on my list",walmart,price,Coffee/Tea
+survey_3,user_1851,8/14/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_4,user_1891,8/18/21,"i was able to buy everything on my list",walmart,brand,"Cereal (Ready To Eat)"
+survey_4,user_1891,8/18/21,"i was able to buy everything on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_1626,9/27/21,"i found most of the items on my list",target,availability,Bakery/Bread
+survey_6,user_1649,9/5/21,"i found most of the items on my list",Costco,Availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_6,user_1800,8/31/21,"i was able to buy everything on my list",Target,Availability,Coffee/Tea
+survey_6,user_1800,8/31/21,"i was able to buy everything on my list",Target,Availability,"Vitamins & Supplements"
+survey_6,user_1800,8/31/21,"i was able to buy everything on my list",Target,Price,"Laundry/Home Cleaning"
+survey_9,user_1826,9/22/21,"i was able to buy everything on my list","sam's club",price,"Grains, Rice, Pasta And Sauce"
+survey_3,user_8,8/9/21,"i was able to buy everything on my list",albertsons,price,Beverages
+survey_2,user_43,8/2/21,"i was able to buy everything on my list",target,price,Bakery/Bread
+survey_3,user_222,8/9/21,"i was able to buy everything on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_222,8/9/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_4,user_277,8/19/21,"i found most of the items on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_68,9/26/21,"i was able to buy everything on my list","sam's club",availability,Beverages
+survey_9,user_249,9/26/21,"i found most of the items on my list",albertsons,availability,"Frozen Foods"
+survey_6,user_308,9/4/21,"i was able to buy everything on my list",Costco,Price,"Cereal (Ready To Eat)"
+survey_6,user_308,9/4/21,"i was able to buy everything on my list",Costco,Price,"Personal Care & Beauty Health"
+survey_7,user_1897,9/11/21,"i found most of the items on my list",Walmart,Availability,"Canned Goods"
+survey_3,user_2100,8/9/21,"i was able to buy everything on my list",target,brand,"Frozen Foods"
+survey_4,user_2105,8/22/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_4,user_2105,8/22/21,"i was able to buy everything on my list",kroger,price,"Canned Goods"
+survey_9,user_2122,9/23/21,"i was able to buy everything on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_9,user_2122,9/23/21,"i was able to buy everything on my list",walmart,price,"Laundry/Home Cleaning"
+survey_9,user_2122,9/23/21,"i was able to buy everything on my list",walmart,brand,"Dairy/Dairy Byproducts"
+survey_9,user_2122,9/23/21,"i was able to buy everything on my list",walmart,brand,"Frozen Foods"
+survey_9,user_2122,9/23/21,"i was able to buy everything on my list",walmart,brand,Beverages
+survey_10,user_439,9/29/21,"i was able to buy everything on my list",kroger,availability,"Beer, Wine & Spirits"
+survey_2,user_443,8/5/21,"i was able to buy everything on my list","trader joe's",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_1,user_480,8/1/21,"i was able to buy everything on my list","sam's club",price,"Laundry/Home Cleaning"
+survey_9,user_508,9/26/21,"i found most of the items on my list","whole foods",price,"Canned Goods"
+survey_7,user_463,9/7/21,"i found most of the items on my list",Kroger,Availability,"Grains, Rice, Pasta And Sauce"
+survey_4,user_478,8/18/21,"i was able to buy everything on my list",walmart,brand,"Frozen Foods"
+survey_2,user_558,8/3/21,"i found only a few of the items on my list",target,availability,"Canned Goods"
+survey_3,user_579,8/9/21,"i was able to buy everything on my list","whole foods",availability,"Canned Goods"
+survey_5,user_693,8/25/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_7,user_697,9/8/21,"i was able to buy everything on my list",Target,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_3404,8/9/21,"i was able to buy everything on my list",target,price,"Vitamins & Supplements"
+survey_7,user_3427,9/6/21,"i was able to buy everything on my list","Whole Foods",Availability,Bakery/Bread
+survey_8,user_3492,9/19/21,"i was able to buy everything on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_2,user_3518,8/2/21,"i was able to buy everything on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_1208,8/2/21,"i found only a few of the items on my list",walmart,price,"Frozen Foods"
+survey_10,user_1068,9/29/21,"i was able to buy everything on my list",costco,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_10,user_1068,9/29/21,"i was able to buy everything on my list",costco,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_1250,9/30/21,"i was able to buy everything on my list","sam's club",availability,Beverages
+survey_10,user_1250,9/30/21,"i was able to buy everything on my list","sam's club",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_1348,9/15/21,"i was able to buy everything on my list",walmart,brand,Beverages
+survey_6,user_1399,9/3/21,"i was able to buy everything on my list","Sam's Club",Availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_5,user_1417,8/27/21,"i found most of the items on my list",kroger,price,"Pet Care"
+survey_6,user_5504,9/2/21,"i found most of the items on my list",Costco,Brand,"Frozen Foods"
+survey_6,user_5504,9/2/21,"i found most of the items on my list",Costco,Price,"Cereal (Ready To Eat)"
+survey_5,user_5516,8/24/21,"i was able to buy everything on my list",target,brand,"Baby Care"
+survey_6,user_5556,8/30/21,"i found most of the items on my list",Walmart,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_5574,9/21/21,"i was able to buy everything on my list",walmart,price,Bakery/Bread
+survey_9,user_5616,9/24/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_9,user_5657,9/22/21,"i found most of the items on my list",walmart,availability,Bakery/Bread
+survey_8,user_5661,9/17/21,"i was able to buy everything on my list",costco,price,"Frozen Foods"
+survey_7,user_5712,9/8/21,"i was able to buy everything on my list",Costco,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_5755,9/26/21,"i was able to buy everything on my list","sam's club",brand,Beverages
+survey_8,user_5780,9/14/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_8,user_5808,9/17/21,"i found most of the items on my list",albertsons,brand,"Cereal (Ready To Eat)"
+survey_8,user_3882,9/13/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_8,user_4033,9/15/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_3,user_3874,8/10/21,"i was able to buy everything on my list",walmart,brand,Beverages
+survey_3,user_3874,8/10/21,"i was able to buy everything on my list",walmart,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_5,user_4014,8/27/21,"i found most of the items on my list",target,availability,"Frozen Foods"
+survey_9,user_3901,9/23/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_4216,8/2/21,"i was able to buy everything on my list",walmart,brand,"Personal Care & Beauty Health"
+survey_3,user_4219,8/13/21,"i found most of the items on my list","sam's club",availability,Beverages
+survey_9,user_2213,9/26/21,"i was able to buy everything on my list","sam's club",price,"Beer, Wine & Spirits"
+survey_8,user_2218,9/16/21,"i was able to buy everything on my list",target,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_2230,8/2/21,"i was able to buy everything on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_2290,8/8/21,"i found most of the items on my list","sam's club",price,"Pet Care"
+survey_2,user_2287,8/5/21,"i was able to buy everything on my list",target,availability,"Baby Care"
+survey_5,user_2304,8/23/21,"i was able to buy everything on my list",walmart,availability,"Cereal (Ready To Eat)"
+survey_5,user_2400,8/26/21,"i was able to buy everything on my list","sam's club",price,"Cereal (Ready To Eat)"
+survey_9,user_2447,9/20/21,"i found most of the items on my list",walmart,price,"Cereal (Ready To Eat)"
+survey_2,user_2456,8/6/21,"i was able to buy everything on my list","sam's club",price,Beverages
+survey_9,user_2649,9/21/21,"i was able to buy everything on my list",walmart,price,"Personal Care & Beauty Health"
+survey_2,user_2691,8/5/21,"i was able to buy everything on my list",kroger,brand,"Personal Care & Beauty Health"
+survey_6,user_2292,9/2/21,"i found most of the items on my list",Target,Price,Beverages
+survey_8,user_2302,9/16/21,"i was able to buy everything on my list","trader joe's",brand,"Frozen Foods"
+survey_8,user_2362,9/15/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_9,user_2605,9/25/21,"i was able to buy everything on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_2605,8/6/21,"i was able to buy everything on my list",costco,availability,"Frozen Foods"
+survey_5,user_2591,8/26/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_5,user_2600,8/24/21,"i was able to buy everything on my list",target,price,"Dairy/Dairy Byproducts"
+survey_6,user_2766,8/31/21,"i found most of the items on my list",Target,Price,"Vitamins & Supplements"
+survey_6,user_2766,8/31/21,"i found most of the items on my list",Target,Availability,"Pet Care"
+survey_4,user_2770,8/18/21,"i was able to buy everything on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_2792,8/25/21,"i was able to buy everything on my list","sam's club",brand,"Cereal (Ready To Eat)"
+survey_3,user_4432,8/13/21,"i found only a few of the items on my list",albertsons,price,Bakery/Bread
+survey_6,user_4370,9/1/21,"i was able to buy everything on my list",Kroger,Price,"Frozen Foods"
+survey_6,user_4370,9/1/21,"i was able to buy everything on my list",Kroger,Brand,Coffee/Tea
+survey_2,user_4397,8/2/21,"i was able to buy everything on my list",walmart,brand,Bakery/Bread
+survey_6,user_4388,9/5/21,"i was able to buy everything on my list",Kroger,Price,"Beer, Wine & Spirits"
+survey_2,user_4434,8/8/21,"i was able to buy everything on my list",kroger,price,"Pet Care"
+survey_4,user_4467,8/18/21,"i was able to buy everything on my list",costco,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_4,user_4467,8/18/21,"i was able to buy everything on my list",costco,price,"Pet Care"
+survey_6,user_4487,9/4/21,"i found only a few of the items on my list",Walmart,Price,Bakery/Bread
+survey_2,user_4571,8/2/21,"i found most of the items on my list",target,price,"Frozen Foods"
+survey_2,user_4571,8/2/21,"i found most of the items on my list",target,availability,Bakery/Bread
+survey_3,user_4673,8/15/21,"i was able to buy everything on my list",costco,brand,"Personal Care & Beauty Health"
+survey_3,user_4673,8/15/21,"i was able to buy everything on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_3,user_4673,8/15/21,"i was able to buy everything on my list",costco,brand,"Vitamins & Supplements"
+survey_2,user_4690,8/3/21,"i was able to buy everything on my list",target,brand,"Personal Care & Beauty Health"
+survey_8,user_4521,9/19/21,"i found most of the items on my list",walmart,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_8,user_4521,9/19/21,"i found most of the items on my list",walmart,availability,"Pet Care"
+survey_8,user_4521,9/19/21,"i found most of the items on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_8,user_4521,9/19/21,"i found most of the items on my list",walmart,availability,"Frozen Foods"
+survey_9,user_4503,9/26/21,"i was able to buy everything on my list",albertsons,price,"Baby Care"
+survey_5,user_4618,8/26/21,"i found most of the items on my list",costco,price,"Personal Care & Beauty Health"
+survey_8,user_4632,9/13/21,"i was able to buy everything on my list",walmart,price,"Laundry/Home Cleaning"
+survey_3,user_4677,8/10/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_4772,8/22/21,"i was able to buy everything on my list","whole foods",availability,"Frozen Foods"
+survey_6,user_4777,9/3/21,"i was able to buy everything on my list",Costco,Availability,"Dairy/Dairy Byproducts"
+survey_6,user_4777,9/3/21,"i was able to buy everything on my list",Costco,Availability,Bakery/Bread
+survey_4,user_4807,8/20/21,"i was able to buy everything on my list",kroger,brand,"Pet Care"
+survey_2,user_1462,8/2/21,"i found most of the items on my list",costco,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_1462,8/2/21,"i found most of the items on my list",costco,availability,"Personal Care & Beauty Health"
+survey_4,user_1529,8/17/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_4,user_1557,8/21/21,"i was able to buy everything on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_1573,9/19/21,"i was able to buy everything on my list",walmart,availability,"Frozen Foods"
+survey_6,user_1599,9/4/21,"i was able to buy everything on my list",Costco,Price,Bakery/Bread
+survey_5,user_1771,8/24/21,"i was able to buy everything on my list",kroger,price,"Frozen Foods"
+survey_3,user_1683,8/10/21,"i was able to buy everything on my list","trader joe's",availability,"Canned Goods"
+survey_3,user_1683,8/10/21,"i was able to buy everything on my list","trader joe's",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_1603,8/10/21,"i was able to buy everything on my list",target,price,Bakery/Bread
+survey_3,user_1750,8/14/21,"i found only a few of the items on my list","trader joe's",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_1805,9/4/21,"i was able to buy everything on my list",Target,Brand,Beverages
+survey_6,user_1805,9/4/21,"i was able to buy everything on my list",Target,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_1848,8/30/21,"i was able to buy everything on my list",Target,Availability,Bakery/Bread
+survey_7,user_1883,9/11/21,"i was able to buy everything on my list",Walmart,Brand,"Dairy/Dairy Byproducts"
+survey_8,user_1984,9/17/21,"i was able to buy everything on my list","sam's club",price,"Grains, Rice, Pasta And Sauce"
+survey_3,user_1571,8/11/21,"i was able to buy everything on my list",albertsons,availability,"Laundry/Home Cleaning"
+survey_3,user_1571,8/11/21,"i was able to buy everything on my list",albertsons,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_1648,8/24/21,"i was able to buy everything on my list",target,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_1648,8/24/21,"i was able to buy everything on my list",target,price,"Grains, Rice, Pasta And Sauce"
+survey_6,user_1851,9/2/21,"i was able to buy everything on my list",Target,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_1872,8/31/21,"i was able to buy everything on my list","Whole Foods",Price,Bakery/Bread
+survey_6,user_1872,8/31/21,"i was able to buy everything on my list","Whole Foods",Brand,"Vitamins & Supplements"
+survey_5,user_1878,8/23/21,"i found most of the items on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_38,8/15/21,"i was able to buy everything on my list","sam's club",availability,"Vitamins & Supplements"
+survey_3,user_38,8/15/21,"i was able to buy everything on my list","sam's club",price,Beverages
+survey_9,user_70,9/20/21,"i was able to buy everything on my list","trader joe's",availability,"Dairy/Dairy Byproducts"
+survey_6,user_180,9/5/21,"i was able to buy everything on my list",Kroger,Price,Beverages
+survey_6,user_180,9/5/21,"i was able to buy everything on my list",Kroger,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_181,9/13/21,"i was able to buy everything on my list",albertsons,price,"Grains, Rice, Pasta And Sauce"
+survey_8,user_181,9/13/21,"i was able to buy everything on my list",albertsons,price,"Canned Goods"
+survey_8,user_181,9/13/21,"i was able to buy everything on my list",albertsons,price,"Frozen Foods"
+survey_8,user_181,9/13/21,"i was able to buy everything on my list",albertsons,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_196,8/4/21,"i was able to buy everything on my list",target,price,"Frozen Foods"
+survey_2,user_196,8/4/21,"i was able to buy everything on my list",target,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_196,8/4/21,"i was able to buy everything on my list",target,availability,Bakery/Bread
+survey_1,user_221,8/1/21,"i was able to buy everything on my list",kroger,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_1,user_221,8/1/21,"i was able to buy everything on my list",kroger,price,"Cereal (Ready To Eat)"
+survey_3,user_166,8/10/21,"i was able to buy everything on my list",albertsons,availability,"Beer, Wine & Spirits"
+survey_7,user_202,9/8/21,"i was able to buy everything on my list",Target,Brand,"Laundry/Home Cleaning"
+survey_3,user_230,8/10/21,"i was able to buy everything on my list",costco,brand,Beverages
+survey_9,user_253,9/22/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_3,user_406,8/11/21,"i was able to buy everything on my list","sam's club",price,"Laundry/Home Cleaning"
+survey_7,user_1963,9/12/21,"i was able to buy everything on my list",Kroger,Availability,"Pet Care"
+survey_8,user_1969,9/13/21,"i was able to buy everything on my list","whole foods",availability,"Beer, Wine & Spirits"
+survey_8,user_1871,9/15/21,"i was able to buy everything on my list","trader joe's",price,"Canned Goods"
+survey_2,user_2129,8/2/21,"i was able to buy everything on my list",walmart,availability,"Beer, Wine & Spirits"
+survey_6,user_436,9/2/21,"i was able to buy everything on my list","Sam's Club",Price,"Frozen Foods"
+survey_9,user_418,9/22/21,"i was able to buy everything on my list",costco,availability,Bakery/Bread
+survey_6,user_535,9/1/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Cereal (Ready To Eat)"
+survey_9,user_591,9/24/21,"i was able to buy everything on my list",target,availability,"Dairy/Dairy Byproducts"
+survey_4,user_649,8/18/21,"i was able to buy everything on my list",albertsons,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_656,8/11/21,"i found most of the items on my list",walmart,brand,"Laundry/Home Cleaning"
+survey_3,user_670,8/15/21,"i was able to buy everything on my list",albertsons,availability,"Canned Goods"
+survey_7,user_705,9/12/21,"i was able to buy everything on my list",Albertsons,Availability,"Dairy/Dairy Byproducts"
+survey_7,user_645,9/7/21,"i found most of the items on my list",Walmart,Availability,Beverages
+survey_3,user_871,8/12/21,"i was able to buy everything on my list",target,brand,Coffee/Tea
+survey_3,user_940,8/13/21,"i was able to buy everything on my list",costco,availability,"Dairy/Dairy Byproducts"
+survey_3,user_940,8/13/21,"i was able to buy everything on my list",costco,brand,"Frozen Foods"
+survey_8,user_2896,9/13/21,"i was able to buy everything on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_2911,8/21/21,"i was able to buy everything on my list","sam's club",availability,"Vitamins & Supplements"
+survey_7,user_818,9/7/21,"i was able to buy everything on my list",Target,Availability,Coffee/Tea
+survey_6,user_856,9/3/21,"i was able to buy everything on my list",Costco,Price,Beverages
+survey_4,user_907,8/22/21,"i was able to buy everything on my list","whole foods",availability,Beverages
+survey_4,user_910,8/17/21,"i found most of the items on my list","sam's club",price,"Cereal (Ready To Eat)"
+survey_9,user_1082,9/24/21,"i was able to buy everything on my list",walmart,brand,"Pet Care"
+survey_2,user_1191,8/2/21,"i was able to buy everything on my list",target,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_1210,8/27/21,"i was able to buy everything on my list",walmart,price,"Canned Goods"
+survey_5,user_1210,8/27/21,"i was able to buy everything on my list",walmart,price,Coffee/Tea
+survey_5,user_1112,8/26/21,"i was able to buy everything on my list",costco,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_1099,8/2/21,"i was able to buy everything on my list",target,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_2992,9/11/21,"i was able to buy everything on my list",Kroger,Availability,Bakery/Bread
+survey_8,user_3000,9/18/21,"i found most of the items on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_3000,9/18/21,"i found most of the items on my list",walmart,brand,"Beer, Wine & Spirits"
+survey_2,user_3146,8/2/21,"i was able to buy everything on my list","trader joe's",availability,"Pet Care"
+survey_7,user_3188,9/6/21,"i was able to buy everything on my list",Target,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_3277,9/3/21,"i was able to buy everything on my list",Kroger,Availability,"Baby Care"
+survey_1,user_3131,8/1/21,"i was able to buy everything on my list",kroger,price,"Frozen Foods"
+survey_2,user_3160,8/3/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_6,user_3214,8/30/21,"i was able to buy everything on my list",Walmart,Brand,"Pet Care"
+survey_3,user_3348,8/9/21,"i found most of the items on my list",walmart,brand,Beverages
+survey_4,user_3270,8/18/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_4,user_3270,8/18/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_9,user_3417,9/21/21,"i was able to buy everything on my list",walmart,brand,"Baby Care"
+survey_9,user_3417,9/21/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_3,user_3434,8/14/21,"i was able to buy everything on my list",kroger,brand,"Pet Care"
+survey_3,user_3434,8/14/21,"i was able to buy everything on my list",kroger,price,"Frozen Foods"
+survey_4,user_3462,8/18/21,"i found most of the items on my list",walmart,brand,Bakery/Bread
+survey_4,user_3462,8/18/21,"i found most of the items on my list",walmart,brand,Coffee/Tea
+survey_3,user_1173,8/9/21,"i was able to buy everything on my list","whole foods",brand,Bakery/Bread
+survey_3,user_1335,8/11/21,"i was able to buy everything on my list",costco,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_1345,9/22/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_7,user_1351,9/12/21,"i found most of the items on my list",Kroger,Price,Bakery/Bread
+survey_5,user_1355,8/24/21,"i was able to buy everything on my list",walmart,availability,"Cereal (Ready To Eat)"
+survey_10,user_3554,9/27/21,"i was able to buy everything on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_3552,8/10/21,"i found most of the items on my list",kroger,price,Beverages
+survey_4,user_1412,8/18/21,"i was able to buy everything on my list",costco,brand,Bakery/Bread
+survey_2,user_1438,8/8/21,"i was able to buy everything on my list",costco,availability,"Laundry/Home Cleaning"
+survey_6,user_5068,9/2/21,"i found most of the items on my list",Target,Availability,"Personal Care & Beauty Health"
+survey_5,user_5107,8/24/21,"i was able to buy everything on my list",costco,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_5144,8/5/21,"i was able to buy everything on my list","trader joe's",price,"Dairy/Dairy Byproducts"
+survey_2,user_5144,8/5/21,"i was able to buy everything on my list","trader joe's",availability,"Cereal (Ready To Eat)"
+survey_2,user_5149,8/7/21,"i was able to buy everything on my list","whole foods",price,"Grains, Rice, Pasta And Sauce"
+survey_3,user_5141,8/13/21,"i was able to buy everything on my list","sam's club",price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_5141,8/13/21,"i was able to buy everything on my list","sam's club",price,Bakery/Bread
+survey_3,user_5141,8/13/21,"i was able to buy everything on my list","sam's club",price,"Cereal (Ready To Eat)"
+survey_5,user_5245,8/24/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_5,user_5309,8/26/21,"i was able to buy everything on my list",target,brand,"Cereal (Ready To Eat)"
+survey_7,user_5322,9/9/21,"i was able to buy everything on my list","Whole Foods",Price,"Dairy/Dairy Byproducts"
+survey_4,user_5335,8/18/21,"i was able to buy everything on my list",walmart,price,"Vitamins & Supplements"
+survey_5,user_5542,8/26/21,"i was able to buy everything on my list",costco,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_5214,9/7/21,"i was able to buy everything on my list",Walmart,Availability,"Frozen Foods"
+survey_10,user_5299,9/29/21,"i found most of the items on my list",costco,price,"Beer, Wine & Spirits"
+survey_6,user_5554,8/31/21,"i was able to buy everything on my list",Kroger,Brand,Coffee/Tea
+survey_2,user_4850,8/2/21,"i was able to buy everything on my list",walmart,price,"Pet Care"
+survey_7,user_4649,9/10/21,"i was able to buy everything on my list",Kroger,Brand,"Beer, Wine & Spirits"
+survey_4,user_4701,8/21/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_9,user_4709,9/20/21,"i found most of the items on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_5,user_4793,8/25/21,"i was able to buy everything on my list",kroger,price,Beverages
+survey_5,user_4793,8/25/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_9,user_4902,9/23/21,"i found only a few of the items on my list",albertsons,price,"Canned Goods"
+survey_2,user_4934,8/3/21,"i was able to buy everything on my list",kroger,brand,Bakery/Bread
+survey_2,user_4934,8/3/21,"i was able to buy everything on my list",kroger,brand,Beverages
+survey_7,user_5024,9/7/21,"i found most of the items on my list",Target,Price,"Dairy/Dairy Byproducts"
+survey_6,user_5608,9/5/21,"i was able to buy everything on my list",Kroger,Price,Beverages
+survey_7,user_5752,9/11/21,"i found most of the items on my list","Sam's Club",Availability,"Personal Care & Beauty Health"
+survey_9,user_5779,9/20/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_10,user_5852,9/27/21,"i found most of the items on my list",walmart,price,Bakery/Bread
+survey_10,user_5852,9/27/21,"i found most of the items on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_10,user_5853,9/28/21,"i was able to buy everything on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_5862,9/30/21,"i was able to buy everything on my list",walmart,brand,"Pet Care"
+survey_6,user_4978,8/30/21,"i was able to buy everything on my list",Walmart,Availability,Bakery/Bread
+survey_6,user_4978,8/30/21,"i was able to buy everything on my list",Walmart,Price,Coffee/Tea
+survey_7,user_3735,9/7/21,"i was able to buy everything on my list",Target,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_4119,8/3/21,"i found most of the items on my list","trader joe's",price,"Frozen Foods"
+survey_4,user_3886,8/20/21,"i was able to buy everything on my list",target,availability,"Vitamins & Supplements"
+survey_9,user_3909,9/23/21,"i was able to buy everything on my list",costco,price,"Personal Care & Beauty Health"
+survey_2,user_3981,8/6/21,"i was able to buy everything on my list","sam's club",availability,Beverages
+survey_4,user_4000,8/22/21,"i was able to buy everything on my list",kroger,availability,"Frozen Foods"
+survey_4,user_4000,8/22/21,"i was able to buy everything on my list",kroger,availability,Bakery/Bread
+survey_6,user_4099,9/2/21,"i found most of the items on my list",Kroger,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_4130,8/2/21,"i was able to buy everything on my list",walmart,price,"Grains, Rice, Pasta And Sauce"
+survey_2,user_4160,8/8/21,"i was able to buy everything on my list",albertsons,availability,Beverages
+survey_7,user_4318,9/6/21,"i found most of the items on my list",Walmart,Price,"Personal Care & Beauty Health"
+survey_5,user_2219,8/23/21,"i was able to buy everything on my list",kroger,price,"Personal Care & Beauty Health"
+survey_8,user_2231,9/17/21,"i was able to buy everything on my list",target,brand,"Dairy/Dairy Byproducts"
+survey_7,user_2373,9/7/21,"i was able to buy everything on my list",Walmart,Availability,"Personal Care & Beauty Health"
+survey_6,user_2282,8/31/21,"i found only a few of the items on my list",Walmart,Availability,Beverages
+survey_4,user_2564,8/21/21,"i was able to buy everything on my list","trader joe's",availability,"Dairy/Dairy Byproducts"
+survey_9,user_2647,9/21/21,"i was able to buy everything on my list",walmart,brand,"Grains, Rice, Pasta And Sauce"
+survey_8,user_2408,9/13/21,"i found most of the items on my list",walmart,brand,"Dairy/Dairy Byproducts"
+survey_5,user_2482,8/23/21,"i was able to buy everything on my list",target,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_6,user_2484,9/2/21,"i was able to buy everything on my list",Costco,Brand,"Personal Care & Beauty Health"
+survey_8,user_2621,9/13/21,"i was able to buy everything on my list",walmart,brand,"Personal Care & Beauty Health"
+survey_7,user_2743,9/7/21,"i found most of the items on my list",Costco,Availability,Bakery/Bread
+survey_5,user_2803,8/23/21,"i was able to buy everything on my list","sam's club",brand,"Baby Care"
+survey_10,user_2815,9/29/21,"i found most of the items on my list",costco,price,"Frozen Foods"
+survey_10,user_2815,9/29/21,"i found most of the items on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_3,user_2881,8/9/21,"i found only a few of the items on my list",walmart,availability,Bakery/Bread
+survey_6,user_2882,9/3/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Dairy/Dairy Byproducts"
+survey_4,user_4352,8/16/21,"i was able to buy everything on my list",target,price,"Laundry/Home Cleaning"
+survey_4,user_4352,8/16/21,"i was able to buy everything on my list",target,brand,"Baby Care"
+survey_7,user_4454,9/6/21,"i was able to buy everything on my list",Walmart,Price,"Personal Care & Beauty Health"
+survey_7,user_4478,9/12/21,"i found most of the items on my list",Kroger,Price,"Dairy/Dairy Byproducts"
+survey_7,user_4389,9/11/21,"i was able to buy everything on my list",Walmart,Price,"Canned Goods"
+survey_7,user_4389,9/11/21,"i was able to buy everything on my list",Walmart,Price,"Laundry/Home Cleaning"
+survey_7,user_4389,9/11/21,"i was able to buy everything on my list",Walmart,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_4698,8/30/21,"i was able to buy everything on my list",Walmart,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_4702,8/17/21,"i was able to buy everything on my list","whole foods",price,"Beer, Wine & Spirits"
+survey_3,user_4711,8/13/21,"i was able to buy everything on my list",target,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_4599,8/11/21,"i found most of the items on my list",costco,price,"Frozen Foods"
+survey_7,user_4611,9/9/21,"i was able to buy everything on my list","Whole Foods",Brand,Beverages
+survey_7,user_4611,9/9/21,"i was able to buy everything on my list","Whole Foods",Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_1506,9/4/21,"i found most of the items on my list",Walmart,Brand,"Personal Care & Beauty Health"
+survey_6,user_1506,9/4/21,"i found most of the items on my list",Walmart,Brand,"Paper (Tissue, Paper Towels, Etc.)"
+survey_6,user_1504,8/31/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Grains, Rice, Pasta And Sauce"
+survey_6,user_1504,8/31/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Beer, Wine & Spirits"
+survey_7,user_1597,9/7/21,"i was able to buy everything on my list",Walmart,Price,"Vitamins & Supplements"
+survey_6,user_1605,8/30/21,"i found most of the items on my list",Albertsons,Brand,"Frozen Foods"
+survey_6,user_1605,8/30/21,"i found most of the items on my list",Albertsons,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_1741,8/13/21,"i was able to buy everything on my list","sam's club",price,"Personal Care & Beauty Health"
+survey_2,user_1748,8/8/21,"i was able to buy everything on my list","sam's club",availability,"Frozen Foods"
+survey_3,user_1820,8/11/21,"i was able to buy everything on my list",walmart,price,"Cereal (Ready To Eat)"
+survey_3,user_1820,8/11/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_4,user_1829,8/16/21,"i was able to buy everything on my list","whole foods",price,"Vitamins & Supplements"
+survey_6,user_1652,8/31/21,"i was able to buy everything on my list",Kroger,Price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_72,8/10/21,"i was able to buy everything on my list",target,availability,"Vitamins & Supplements"
+survey_2,user_87,8/8/21,"i found most of the items on my list",kroger,brand,"Paper (Tissue, Paper Towels, Etc.)"
+survey_8,user_36,9/14/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_7,user_54,9/8/21,"i was able to buy everything on my list",Walmart,Availability,"Frozen Foods"
+survey_7,user_85,9/7/21,"i found most of the items on my list",Costco,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_120,9/14/21,"i was able to buy everything on my list","trader joe's",brand,"Dairy/Dairy Byproducts"
+survey_7,user_129,9/9/21,"i was able to buy everything on my list","Sam's Club",Availability,"Personal Care & Beauty Health"
+survey_5,user_174,8/26/21,"i found most of the items on my list",costco,availability,"Canned Goods"
+survey_5,user_174,8/26/21,"i found most of the items on my list",costco,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_9,user_176,9/22/21,"i found most of the items on my list",kroger,availability,Bakery/Bread
+survey_3,user_194,8/10/21,"i was able to buy everything on my list","sam's club",availability,"Frozen Foods"
+survey_7,user_266,9/7/21,"i was able to buy everything on my list",Costco,Availability,"Frozen Foods"
+survey_7,user_266,9/7/21,"i was able to buy everything on my list",Costco,Price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_4,user_278,8/22/21,"i was able to buy everything on my list",kroger,price,"Personal Care & Beauty Health"
+survey_5,user_287,8/23/21,"i was able to buy everything on my list",walmart,price,Bakery/Bread
+survey_2,user_328,8/5/21,"i was able to buy everything on my list",kroger,price,"Frozen Foods"
+survey_3,user_120,8/11/21,"i was able to buy everything on my list","whole foods",availability,Beverages
+survey_3,user_120,8/11/21,"i was able to buy everything on my list","whole foods",availability,"Pet Care"
+survey_7,user_395,9/11/21,"i was able to buy everything on my list",Walmart,Availability,Bakery/Bread
+survey_4,user_1853,8/17/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_4,user_2006,8/16/21,"i was able to buy everything on my list",walmart,availability,"Cereal (Ready To Eat)"
+survey_6,user_2011,9/4/21,"i was able to buy everything on my list",Walmart,Price,Coffee/Tea
+survey_5,user_2033,8/27/21,"i was able to buy everything on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_2125,8/25/21,"i was able to buy everything on my list",target,availability,"Personal Care & Beauty Health"
+survey_6,user_2155,9/5/21,"i was able to buy everything on my list","Whole Foods",Price,"Beer, Wine & Spirits"
+survey_2,user_528,8/6/21,"i was able to buy everything on my list","trader joe's",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_598,9/28/21,"i found most of the items on my list",costco,price,"Vitamins & Supplements"
+survey_10,user_605,9/28/21,"i was able to buy everything on my list",kroger,brand,"Dairy/Dairy Byproducts"
+survey_3,user_608,8/12/21,"i was able to buy everything on my list","sam's club",price,Bakery/Bread
+survey_3,user_608,8/12/21,"i was able to buy everything on my list","sam's club",price,"Dairy/Dairy Byproducts"
+survey_8,user_668,9/14/21,"i found most of the items on my list",kroger,availability,Coffee/Tea
+survey_8,user_692,9/15/21,"i was able to buy everything on my list",walmart,brand,"Frozen Foods"
+survey_7,user_752,9/11/21,"i found most of the items on my list",Kroger,Price,Beverages
+survey_7,user_752,9/11/21,"i found most of the items on my list",Kroger,Brand,"Grains, Rice, Pasta And Sauce"
+survey_7,user_752,9/11/21,"i found most of the items on my list",Kroger,Price,"Personal Care & Beauty Health"
+survey_8,user_756,9/15/21,"i was able to buy everything on my list",target,availability,"Pet Care"
+survey_9,user_812,9/25/21,"i was able to buy everything on my list",walmart,availability,"Cereal (Ready To Eat)"
+survey_2,user_845,8/3/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_7,user_867,9/9/21,"i was able to buy everything on my list",Target,Price,"Dairy/Dairy Byproducts"
+survey_4,user_880,8/21/21,"i found most of the items on my list",walmart,availability,"Laundry/Home Cleaning"
+survey_8,user_1051,9/14/21,"i found only a few of the items on my list","sam's club",price,"Personal Care & Beauty Health"
+survey_8,user_1051,9/14/21,"i found only a few of the items on my list","sam's club",price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_1051,9/14/21,"i found only a few of the items on my list","sam's club",price,"Frozen Foods"
+survey_1,user_891,8/1/21,"i was able to buy everything on my list",costco,brand,"Cereal (Ready To Eat)"
+survey_6,user_942,9/5/21,"i found most of the items on my list","Sam's Club",Price,"Baby Care"
+survey_6,user_942,9/5/21,"i found most of the items on my list","Sam's Club",Price,Bakery/Bread
+survey_10,user_958,9/28/21,"i was able to buy everything on my list",costco,price,"Laundry/Home Cleaning"
+survey_10,user_958,9/28/21,"i was able to buy everything on my list",costco,price,"Canned Goods"
+survey_7,user_1151,9/7/21,"i was able to buy everything on my list",Walmart,Availability,"Personal Care & Beauty Health"
+survey_7,user_1151,9/7/21,"i was able to buy everything on my list",Walmart,Price,"Laundry/Home Cleaning"
+survey_7,user_2972,9/7/21,"i was able to buy everything on my list",Walmart,Brand,"Beer, Wine & Spirits"
+survey_3,user_3053,8/10/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_8,user_3184,9/15/21,"i was able to buy everything on my list",costco,brand,Bakery/Bread
+survey_2,user_3349,8/5/21,"i was able to buy everything on my list","whole foods",availability,Beverages
+survey_2,user_3349,8/5/21,"i was able to buy everything on my list","whole foods",availability,"Frozen Foods"
+survey_5,user_3363,8/23/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_6,user_2976,8/30/21,"i was able to buy everything on my list",Walmart,Price,Bakery/Bread
+survey_6,user_2976,8/30/21,"i was able to buy everything on my list",Walmart,Price,"Grains, Rice, Pasta And Sauce"
+survey_8,user_3139,9/13/21,"i was able to buy everything on my list",albertsons,brand,"Dairy/Dairy Byproducts"
+survey_8,user_3139,9/13/21,"i was able to buy everything on my list",albertsons,price,"Personal Care & Beauty Health"
+survey_8,user_3139,9/13/21,"i was able to buy everything on my list",albertsons,price,Beverages
+survey_8,user_3139,9/13/21,"i was able to buy everything on my list",albertsons,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_3449,9/18/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_8,user_3527,9/16/21,"i was able to buy everything on my list",target,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_1208,9/27/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_3,user_1144,8/10/21,"i was able to buy everything on my list",kroger,availability,"Frozen Foods"
+survey_3,user_1144,8/10/21,"i was able to buy everything on my list",kroger,brand,"Pet Care"
+survey_7,user_1188,9/6/21,"i was able to buy everything on my list",Kroger,Price,"Personal Care & Beauty Health"
+survey_8,user_1251,9/15/21,"i was able to buy everything on my list",costco,availability,"Dairy/Dairy Byproducts"
+survey_9,user_1252,9/26/21,"i was able to buy everything on my list","whole foods",price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_6,user_1419,9/2/21,"i was able to buy everything on my list",Target,Brand,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_1446,8/10/21,"i was able to buy everything on my list",target,availability,Coffee/Tea
+survey_6,user_5077,8/30/21,"i was able to buy everything on my list",Kroger,Availability,Bakery/Bread
+survey_6,user_5077,8/30/21,"i was able to buy everything on my list",Kroger,Brand,"Frozen Foods"
+survey_10,user_5160,9/28/21,"i was able to buy everything on my list",walmart,price,"Frozen Foods"
+survey_4,user_5135,8/16/21,"i was able to buy everything on my list",walmart,availability,"Cereal (Ready To Eat)"
+survey_3,user_5260,8/11/21,"i was able to buy everything on my list",kroger,price,"Cereal (Ready To Eat)"
+survey_10,user_5301,9/28/21,"i found most of the items on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_3,user_5317,8/11/21,"i found most of the items on my list","trader joe's",price,"Grains, Rice, Pasta And Sauce"
+survey_3,user_5317,8/11/21,"i found most of the items on my list","trader joe's",price,Bakery/Bread
+survey_8,user_5329,9/18/21,"i did not find any of the items i needed",walmart,brand,Bakery/Bread
+survey_8,user_5329,9/18/21,"i did not find any of the items i needed",walmart,price,"Canned Goods"
+survey_5,user_5348,8/25/21,"i was able to buy everything on my list","trader joe's",price,Bakery/Bread
+survey_4,user_5386,8/18/21,"i was able to buy everything on my list",walmart,brand,"Laundry/Home Cleaning"
+survey_7,user_5408,9/7/21,"i found only a few of the items on my list",Walmart,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_5425,9/6/21,"i was able to buy everything on my list",Walmart,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_4792,8/8/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_7,user_4789,9/11/21,"i was able to buy everything on my list",Target,Price,"Personal Care & Beauty Health"
+survey_4,user_4922,8/22/21,"i was able to buy everything on my list",walmart,availability,"Frozen Foods"
+survey_4,user_4979,8/18/21,"i was able to buy everything on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_4979,8/18/21,"i was able to buy everything on my list",kroger,brand,"Laundry/Home Cleaning"
+survey_6,user_4986,8/31/21,"i was able to buy everything on my list",Walmart,Availability,"Canned Goods"
+survey_1,user_4994,8/1/21,"i was able to buy everything on my list",costco,brand,Bakery/Bread
+survey_5,user_5534,8/29/21,"i was able to buy everything on my list","sam's club",price,Bakery/Bread
+survey_6,user_5536,8/31/21,"i was able to buy everything on my list",Albertsons,Availability,"Personal Care & Beauty Health"
+survey_6,user_5568,8/30/21,"i was able to buy everything on my list",Walmart,Availability,"Baby Care"
+survey_6,user_5568,8/30/21,"i was able to buy everything on my list",Walmart,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_5577,9/16/21,"i was able to buy everything on my list",target,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_5465,8/22/21,"i did not find any of the items i needed",walmart,price,"Frozen Foods"
+survey_4,user_5472,8/21/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_7,user_5633,9/6/21,"i found most of the items on my list","Trader Joe's",Availability,"Frozen Foods"
+survey_10,user_5682,9/28/21,"i was able to buy everything on my list",walmart,availability,"Vitamins & Supplements"
+survey_7,user_5750,9/12/21,"i found most of the items on my list",Costco,Brand,Coffee/Tea
+survey_7,user_5022,9/7/21,"i found most of the items on my list","Sam's Club",Availability,Beverages
+survey_6,user_3653,9/1/21,"i found most of the items on my list",Kroger,Price,"Dairy/Dairy Byproducts"
+survey_5,user_3666,8/23/21,"i was able to buy everything on my list",walmart,availability,"Canned Goods"
+survey_5,user_3666,8/23/21,"i was able to buy everything on my list",walmart,availability,"Frozen Foods"
+survey_8,user_3772,9/14/21,"i was able to buy everything on my list",walmart,brand,"Canned Goods"
+survey_8,user_3772,9/14/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_8,user_3772,9/14/21,"i was able to buy everything on my list",walmart,price,"Grains, Rice, Pasta And Sauce"
+survey_10,user_3776,9/27/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_9,user_3843,9/22/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_5,user_3855,8/25/21,"i was able to buy everything on my list",walmart,brand,"Pet Care"
+survey_2,user_3861,8/4/21,"i was able to buy everything on my list","sam's club",availability,"Pet Care"
+survey_10,user_3874,9/28/21,"i found most of the items on my list",walmart,brand,Coffee/Tea
+survey_4,user_3896,8/18/21,"i found most of the items on my list",albertsons,availability,"Personal Care & Beauty Health"
+survey_5,user_3912,8/27/21,"i was able to buy everything on my list",target,brand,"Personal Care & Beauty Health"
+survey_5,user_3719,8/24/21,"i found most of the items on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_3729,8/17/21,"i was able to buy everything on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_3834,9/2/21,"i was able to buy everything on my list",Walmart,Price,"Personal Care & Beauty Health"
+survey_6,user_3834,9/2/21,"i was able to buy everything on my list",Walmart,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_4172,9/19/21,"i found most of the items on my list",costco,brand,"Dairy/Dairy Byproducts"
+survey_8,user_4175,9/14/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_3,user_4175,8/10/21,"i was able to buy everything on my list",kroger,availability,Bakery/Bread
+survey_3,user_4175,8/10/21,"i was able to buy everything on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_4261,9/25/21,"i found most of the items on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_2,user_4306,8/2/21,"i was able to buy everything on my list",target,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_2199,8/10/21,"i was able to buy everything on my list",kroger,availability,"Frozen Foods"
+survey_2,user_2300,8/4/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_2311,9/3/21,"i found most of the items on my list",Target,Brand,"Personal Care & Beauty Health"
+survey_6,user_2605,8/30/21,"i was able to buy everything on my list",Walmart,Availability,"Cereal (Ready To Eat)"
+survey_1,user_2637,8/1/21,"i was able to buy everything on my list","sam's club",price,"Personal Care & Beauty Health"
+survey_8,user_2664,9/18/21,"i was able to buy everything on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_8,user_2411,9/13/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_4,user_2740,8/17/21,"i was able to buy everything on my list",kroger,availability,"Frozen Foods"
+survey_8,user_2755,9/13/21,"i was able to buy everything on my list",kroger,price,"Beer, Wine & Spirits"
+survey_9,user_4360,9/21/21,"i found most of the items on my list",kroger,price,"Pet Care"
+survey_8,user_4492,9/19/21,"i was able to buy everything on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_4354,8/25/21,"i was able to buy everything on my list","sam's club",brand,Bakery/Bread
+survey_5,user_4354,8/25/21,"i was able to buy everything on my list","sam's club",brand,"Frozen Foods"
+survey_5,user_4354,8/25/21,"i was able to buy everything on my list","sam's club",availability,"Beer, Wine & Spirits"
+survey_7,user_4587,9/6/21,"i was able to buy everything on my list",Walmart,Price,"Frozen Foods"
+survey_5,user_4607,8/23/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_2,user_4731,8/4/21,"i was able to buy everything on my list",kroger,brand,Beverages
+survey_4,user_4733,8/18/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_7,user_4735,9/7/21,"i was able to buy everything on my list",Walmart,Availability,"Frozen Foods"
+survey_4,user_4749,8/18/21,"i was able to buy everything on my list",walmart,availability,"Laundry/Home Cleaning"
+survey_5,user_4750,8/29/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_1451,8/2/21,"i was able to buy everything on my list","sam's club",brand,Beverages
+survey_2,user_1468,8/7/21,"i found most of the items on my list","whole foods",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_1468,8/7/21,"i found most of the items on my list","whole foods",availability,Bakery/Bread
+survey_7,user_1529,9/6/21,"i was able to buy everything on my list",Walmart,Brand,Beverages
+survey_8,user_1572,9/14/21,"i was able to buy everything on my list",walmart,brand,"Frozen Foods"
+survey_8,user_1693,9/13/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_8,user_1693,9/13/21,"i was able to buy everything on my list",walmart,availability,"Beer, Wine & Spirits"
+survey_8,user_1799,9/14/21,"i was able to buy everything on my list",target,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_1822,9/1/21,"i was able to buy everything on my list",Kroger,Availability,"Cereal (Ready To Eat)"
+survey_6,user_1822,9/1/21,"i was able to buy everything on my list",Kroger,Price,Beverages
+survey_6,user_1713,9/4/21,"i was able to buy everything on my list",Target,Availability,"Vitamins & Supplements"
+survey_10,user_1731,9/29/21,"i was able to buy everything on my list",albertsons,availability,"Dairy/Dairy Byproducts"
+survey_7,user_1789,9/9/21,"i found most of the items on my list",Kroger,Price,Bakery/Bread
+survey_7,user_1789,9/9/21,"i found most of the items on my list",Kroger,Price,"Canned Goods"
+survey_7,user_1789,9/9/21,"i found most of the items on my list",Kroger,Availability,"Frozen Foods"
+survey_2,user_1813,8/3/21,"i was able to buy everything on my list",kroger,brand,"Dairy/Dairy Byproducts"
+survey_4,user_1815,8/17/21,"i was able to buy everything on my list",costco,brand,"Paper (Tissue, Paper Towels, Etc.)"
+survey_4,user_1815,8/17/21,"i was able to buy everything on my list",costco,brand,"Pet Care"
+survey_3,user_1835,8/9/21,"i was able to buy everything on my list",walmart,brand,"Cereal (Ready To Eat)"
+survey_3,user_1835,8/9/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_3,user_1854,8/14/21,"i was able to buy everything on my list",walmart,price,"Personal Care & Beauty Health"
+survey_7,user_1866,9/7/21,"i found most of the items on my list",Costco,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_1866,9/7/21,"i found most of the items on my list",Costco,Availability,Bakery/Bread
+survey_4,user_1840,8/21/21,"i was able to buy everything on my list",walmart,brand,Beverages
+survey_3,user_1887,8/11/21,"i was able to buy everything on my list",target,availability,"Cereal (Ready To Eat)"
+survey_3,user_1887,8/11/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_6,user_18,8/31/21,"i was able to buy everything on my list",Costco,Price,"Dairy/Dairy Byproducts"
+survey_5,user_16,8/24/21,"i found most of the items on my list","trader joe's",price,"Dairy/Dairy Byproducts"
+survey_7,user_17,9/6/21,"i found most of the items on my list",Albertsons,Availability,Bakery/Bread
+survey_7,user_20,9/6/21,"i found most of the items on my list","Sam's Club",Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_20,9/6/21,"i found most of the items on my list","Sam's Club",Availability,"Frozen Foods"
+survey_7,user_20,9/6/21,"i found most of the items on my list","Sam's Club",Availability,"Dairy/Dairy Byproducts"
+survey_5,user_76,8/27/21,"i found most of the items on my list",kroger,availability,Bakery/Bread
+survey_5,user_76,8/27/21,"i found most of the items on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_76,8/27/21,"i found most of the items on my list",kroger,availability,"Canned Goods"
+survey_10,user_272,9/29/21,"i found most of the items on my list",costco,price,"Frozen Foods"
+survey_1,user_288,8/1/21,"i was able to buy everything on my list",kroger,price,"Grains, Rice, Pasta And Sauce"
+survey_1,user_288,8/1/21,"i was able to buy everything on my list",kroger,brand,"Beer, Wine & Spirits"
+survey_8,user_293,9/13/21,"i was able to buy everything on my list",walmart,brand,"Laundry/Home Cleaning"
+survey_3,user_305,8/9/21,"i was able to buy everything on my list",walmart,price,"Personal Care & Beauty Health"
+survey_3,user_331,8/13/21,"i was able to buy everything on my list",target,price,"Frozen Foods"
+survey_3,user_331,8/13/21,"i was able to buy everything on my list",target,price,"Personal Care & Beauty Health"
+survey_9,user_365,9/20/21,"i was able to buy everything on my list",target,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_375,9/28/21,"i was able to buy everything on my list",walmart,brand,"Pet Care"
+survey_8,user_2019,9/16/21,"i was able to buy everything on my list",target,availability,Coffee/Tea
+survey_8,user_2037,9/18/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_5,user_2140,8/25/21,"i found most of the items on my list",target,price,Coffee/Tea
+survey_9,user_2143,9/20/21,"i found most of the items on my list",walmart,price,"Frozen Foods"
+survey_2,user_2171,8/7/21,"i was able to buy everything on my list","trader joe's",price,"Personal Care & Beauty Health"
+survey_6,user_2174,8/31/21,"i was able to buy everything on my list",Walmart,Availability,"Frozen Foods"
+survey_10,user_2175,9/28/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_6,user_496,9/3/21,"i found most of the items on my list",Walmart,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_504,8/9/21,"i was able to buy everything on my list",walmart,brand,"Personal Care & Beauty Health"
+survey_5,user_251,8/28/21,"i was able to buy everything on my list",albertsons,availability,Bakery/Bread
+survey_1,user_533,8/1/21,"i was able to buy everything on my list","sam's club",price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_1,user_533,8/1/21,"i was able to buy everything on my list","sam's club",availability,Beverages
+survey_8,user_538,9/15/21,"i found most of the items on my list",costco,availability,"Beer, Wine & Spirits"
+survey_7,user_542,9/11/21,"i was able to buy everything on my list",Costco,Price,"Frozen Foods"
+survey_7,user_542,9/11/21,"i was able to buy everything on my list",Costco,Price,"Dairy/Dairy Byproducts"
+survey_10,user_555,9/27/21,"i was able to buy everything on my list","trader joe's",availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_557,8/9/21,"i was able to buy everything on my list",walmart,brand,Beverages
+survey_7,user_623,9/11/21,"i found most of the items on my list",Costco,Brand,"Frozen Foods"
+survey_4,user_645,8/18/21,"i was able to buy everything on my list",walmart,availability,"Canned Goods"
+survey_9,user_757,9/25/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_9,user_814,9/21/21,"i was able to buy everything on my list","whole foods",brand,Beverages
+survey_4,user_763,8/19/21,"i found most of the items on my list","whole foods",brand,Bakery/Bread
+survey_7,user_3106,9/10/21,"i was able to buy everything on my list",Kroger,Price,Coffee/Tea
+survey_5,user_2961,8/29/21,"i found most of the items on my list",kroger,brand,Coffee/Tea
+survey_4,user_2995,8/22/21,"i was able to buy everything on my list",kroger,price,Beverages
+survey_5,user_819,8/24/21,"i found most of the items on my list",walmart,brand,"Pet Care"
+survey_7,user_888,9/7/21,"i was able to buy everything on my list",Albertsons,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_914,8/8/21,"i was able to buy everything on my list","trader joe's",price,Bakery/Bread
+survey_2,user_914,8/8/21,"i was able to buy everything on my list","trader joe's",brand,"Personal Care & Beauty Health"
+survey_3,user_996,8/9/21,"i found most of the items on my list","sam's club",availability,Beverages
+survey_9,user_1008,9/24/21,"i was able to buy everything on my list",kroger,price,"Frozen Foods"
+survey_7,user_3053,9/7/21,"i was able to buy everything on my list",Walmart,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_3153,8/5/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_3,user_3212,8/9/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_3,user_1040,8/15/21,"i was able to buy everything on my list",costco,brand,Coffee/Tea
+survey_3,user_1040,8/15/21,"i was able to buy everything on my list",costco,brand,"Beer, Wine & Spirits"
+survey_2,user_3314,8/6/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_6,user_988,9/2/21,"i was able to buy everything on my list",Costco,Brand,"Canned Goods"
+survey_6,user_1012,9/2/21,"i was able to buy everything on my list",Target,Brand,"Beer, Wine & Spirits"
+survey_8,user_1013,9/19/21,"i was able to buy everything on my list",walmart,brand,"Dairy/Dairy Byproducts"
+survey_10,user_1041,9/27/21,"i was able to buy everything on my list",walmart,brand,"Cereal (Ready To Eat)"
+survey_4,user_3273,8/16/21,"i was able to buy everything on my list",kroger,price,Beverages
+survey_3,user_3287,8/9/21,"i was able to buy everything on my list",kroger,availability,Bakery/Bread
+survey_2,user_3312,8/4/21,"i was able to buy everything on my list",costco,availability,"Dairy/Dairy Byproducts"
+survey_3,user_3391,8/10/21,"i was able to buy everything on my list",target,price,"Personal Care & Beauty Health"
+survey_8,user_3398,9/14/21,"i was able to buy everything on my list",walmart,brand,Coffee/Tea
+survey_5,user_3307,8/24/21,"i was able to buy everything on my list",kroger,brand,"Grains, Rice, Pasta And Sauce"
+survey_5,user_3307,8/24/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_2,user_3401,8/4/21,"i was able to buy everything on my list","sam's club",availability,Bakery/Bread
+survey_2,user_3401,8/4/21,"i was able to buy everything on my list","sam's club",availability,"Cereal (Ready To Eat)"
+survey_9,user_3476,9/24/21,"i found most of the items on my list",target,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_3513,9/22/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_9,user_3513,9/22/21,"i was able to buy everything on my list",walmart,brand,"Frozen Foods"
+survey_2,user_1233,8/4/21,"i was able to buy everything on my list","sam's club",price,"Frozen Foods"
+survey_6,user_1257,9/1/21,"i was able to buy everything on my list",Kroger,Availability,"Canned Goods"
+survey_1,user_1260,8/1/21,"i was able to buy everything on my list","whole foods",brand,"Beer, Wine & Spirits"
+survey_7,user_1334,9/7/21,"i was able to buy everything on my list",Walmart,Availability,Bakery/Bread
+survey_7,user_1334,9/7/21,"i was able to buy everything on my list",Walmart,Availability,Coffee/Tea
+survey_4,user_1383,8/19/21,"i found most of the items on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_8,user_1302,9/13/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_1,user_5109,8/1/21,"i was able to buy everything on my list",kroger,price,"Grains, Rice, Pasta And Sauce"
+survey_10,user_5146,9/28/21,"i found most of the items on my list",costco,availability,Beverages
+survey_4,user_5243,8/18/21,"i found most of the items on my list",target,availability,Beverages
+survey_3,user_5258,8/14/21,"i was able to buy everything on my list",albertsons,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_5310,9/1/21,"i was able to buy everything on my list",Target,Availability,"Personal Care & Beauty Health"
+survey_3,user_5303,8/11/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_3,user_5303,8/11/21,"i was able to buy everything on my list",walmart,price,"Canned Goods"
+survey_10,user_5407,9/27/21,"i found only a few of the items on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_5425,8/21/21,"i was able to buy everything on my list","sam's club",price,Beverages
+survey_5,user_5455,8/23/21,"i was able to buy everything on my list",walmart,brand,"Frozen Foods"
+survey_5,user_4851,8/28/21,"i was able to buy everything on my list",kroger,availability,Beverages
+survey_9,user_4721,9/21/21,"i was able to buy everything on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_4816,8/6/21,"i was able to buy everything on my list",costco,price,"Cereal (Ready To Eat)"
+survey_2,user_4816,8/6/21,"i was able to buy everything on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_6,user_4836,9/1/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_4880,8/23/21,"i was able to buy everything on my list",walmart,availability,"Frozen Foods"
+survey_4,user_4932,8/18/21,"i was able to buy everything on my list",walmart,price,"Grains, Rice, Pasta And Sauce"
+survey_3,user_4974,8/11/21,"i was able to buy everything on my list","sam's club",price,"Laundry/Home Cleaning"
+survey_6,user_5483,8/30/21,"i was able to buy everything on my list",Walmart,Price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_6,user_5629,9/1/21,"i found only a few of the items on my list",Kroger,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_5706,9/7/21,"i found most of the items on my list",Walmart,Availability,"Frozen Foods"
+survey_8,user_5751,9/15/21,"i found most of the items on my list",kroger,brand,"Personal Care & Beauty Health"
+survey_8,user_5765,9/15/21,"i found most of the items on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_5786,9/15/21,"i found most of the items on my list",target,availability,"Vitamins & Supplements"
+survey_10,user_5842,9/30/21,"i was able to buy everything on my list",walmart,brand,Coffee/Tea
+survey_9,user_5840,9/24/21,"i found most of the items on my list","whole foods",price,"Grains, Rice, Pasta And Sauce"
+survey_2,user_4995,8/8/21,"i was able to buy everything on my list","sam's club",price,"Laundry/Home Cleaning"
+survey_2,user_5008,8/2/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_9,user_5037,9/25/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_2,user_5059,8/2/21,"i found most of the items on my list",walmart,brand,"Frozen Foods"
+survey_9,user_3744,9/20/21,"i was able to buy everything on my list","trader joe's",availability,Bakery/Bread
+survey_8,user_3844,9/14/21,"i found most of the items on my list",kroger,brand,Bakery/Bread
+survey_8,user_3844,9/14/21,"i found most of the items on my list",kroger,availability,Beverages
+survey_8,user_3817,9/13/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_8,user_3817,9/13/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_8,user_3870,9/18/21,"i was able to buy everything on my list",walmart,brand,"Canned Goods"
+survey_8,user_3870,9/18/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_7,user_3874,9/11/21,"i found most of the items on my list",Walmart,Price,"Frozen Foods"
+survey_1,user_4113,8/1/21,"i was able to buy everything on my list",costco,availability,"Grains, Rice, Pasta And Sauce"
+survey_4,user_4181,8/19/21,"i was able to buy everything on my list",target,availability,Coffee/Tea
+survey_5,user_4199,8/23/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_5,user_4207,8/26/21,"i found most of the items on my list",costco,availability,"Frozen Foods"
+survey_6,user_2197,8/31/21,"i was able to buy everything on my list",Walmart,Price,"Dairy/Dairy Byproducts"
+survey_2,user_2217,8/3/21,"i found most of the items on my list",target,availability,"Laundry/Home Cleaning"
+survey_3,user_2488,8/15/21,"i was able to buy everything on my list",albertsons,availability,"Dairy/Dairy Byproducts"
+survey_4,user_2265,8/22/21,"i was able to buy everything on my list",kroger,availability,"Frozen Foods"
+survey_4,user_2265,8/22/21,"i was able to buy everything on my list",kroger,availability,"Cereal (Ready To Eat)"
+survey_6,user_2455,9/5/21,"i found only a few of the items on my list",Costco,Availability,Coffee/Tea
+survey_8,user_2297,9/17/21,"i was able to buy everything on my list",kroger,availability,"Grains, Rice, Pasta And Sauce"
+survey_5,user_2485,8/25/21,"i was able to buy everything on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_2554,8/31/21,"i was able to buy everything on my list",Kroger,Price,Beverages
+survey_10,user_2625,9/27/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_8,user_2782,9/15/21,"i was able to buy everything on my list",albertsons,brand,Beverages
+survey_9,user_2805,9/20/21,"i was able to buy everything on my list","whole foods",availability,"Grains, Rice, Pasta And Sauce"
+survey_9,user_2843,9/22/21,"i found most of the items on my list",walmart,brand,"Frozen Foods"
+survey_9,user_2843,9/22/21,"i found most of the items on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_7,user_2859,9/10/21,"i was able to buy everything on my list",Walmart,Availability,"Vitamins & Supplements"
+survey_2,user_2863,8/2/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_2,user_2863,8/2/21,"i was able to buy everything on my list",kroger,availability,"Beer, Wine & Spirits"
+survey_6,user_4346,8/31/21,"i was able to buy everything on my list",Walmart,Price,"Personal Care & Beauty Health"
+survey_6,user_4346,8/31/21,"i was able to buy everything on my list",Walmart,Price,"Pet Care"
+survey_7,user_4384,9/12/21,"i found most of the items on my list",Costco,Price,"Laundry/Home Cleaning"
+survey_7,user_4384,9/12/21,"i found most of the items on my list",Costco,Brand,"Frozen Foods"
+survey_8,user_4429,9/14/21,"i found most of the items on my list","trader joe's",price,"Laundry/Home Cleaning"
+survey_4,user_4466,8/19/21,"i was able to buy everything on my list",costco,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_4497,9/6/21,"i was able to buy everything on my list",Walmart,Price,"Grains, Rice, Pasta And Sauce"
+survey_7,user_4497,9/6/21,"i was able to buy everything on my list",Walmart,Brand,Bakery/Bread
+survey_2,user_4540,8/8/21,"i was able to buy everything on my list",costco,price,Bakery/Bread
+survey_9,user_4665,9/23/21,"i was able to buy everything on my list",albertsons,price,"Grains, Rice, Pasta And Sauce"
+survey_8,user_4549,9/14/21,"i was able to buy everything on my list",kroger,availability,Beverages
+survey_8,user_4549,9/14/21,"i was able to buy everything on my list",kroger,availability,"Canned Goods"
+survey_8,user_4549,9/14/21,"i was able to buy everything on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_4653,9/17/21,"i was able to buy everything on my list","sam's club",brand,Coffee/Tea
+survey_8,user_4653,9/17/21,"i was able to buy everything on my list","sam's club",price,"Laundry/Home Cleaning"
+survey_5,user_4674,8/26/21,"i was able to buy everything on my list",target,price,"Dairy/Dairy Byproducts"
+survey_5,user_4694,8/26/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_4758,8/11/21,"i was able to buy everything on my list",walmart,availability,"Vitamins & Supplements"
+survey_6,user_4774,8/30/21,"i was able to buy everything on my list",Albertsons,Price,"Pet Care"
+survey_2,user_4595,8/8/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_9,user_1664,9/22/21,"i found most of the items on my list",target,availability,"Dairy/Dairy Byproducts"
+survey_7,user_1559,9/7/21,"i was able to buy everything on my list",Walmart,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_1559,9/7/21,"i was able to buy everything on my list",Walmart,Price,"Dairy/Dairy Byproducts"
+survey_7,user_1575,9/10/21,"i was able to buy everything on my list",Costco,Brand,"Personal Care & Beauty Health"
+survey_6,user_1591,9/4/21,"i was able to buy everything on my list",Costco,Availability,"Frozen Foods"
+survey_6,user_1591,9/4/21,"i was able to buy everything on my list",Costco,Availability,Bakery/Bread
+survey_2,user_1653,8/2/21,"i was able to buy everything on my list",costco,price,Bakery/Bread
+survey_2,user_1653,8/2/21,"i was able to buy everything on my list",costco,price,"Baby Care"
+survey_2,user_1704,8/3/21,"i was able to buy everything on my list","sam's club",brand,Beverages
+survey_5,user_1769,8/28/21,"i was able to buy everything on my list",target,price,Bakery/Bread
+survey_5,user_1769,8/28/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_8,user_1942,9/16/21,"i was able to buy everything on my list",costco,price,"Laundry/Home Cleaning"
+survey_3,user_1980,8/10/21,"i was able to buy everything on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_1766,9/26/21,"i was able to buy everything on my list",target,availability,"Grains, Rice, Pasta And Sauce"
+survey_4,user_1681,8/19/21,"i found most of the items on my list",walmart,availability,"Baby Care"
+survey_4,user_1842,8/21/21,"i was able to buy everything on my list","sam's club",availability,"Cereal (Ready To Eat)"
+survey_4,user_1842,8/21/21,"i was able to buy everything on my list","sam's club",availability,"Dairy/Dairy Byproducts"
+survey_4,user_1842,8/21/21,"i was able to buy everything on my list","sam's club",availability,Beverages
+survey_5,user_1843,8/23/21,"i was able to buy everything on my list",target,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_1925,8/27/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_4,user_25,8/16/21,"i was able to buy everything on my list",costco,availability,"Grains, Rice, Pasta And Sauce"
+survey_4,user_25,8/16/21,"i was able to buy everything on my list",costco,price,"Laundry/Home Cleaning"
+survey_3,user_30,8/15/21,"i was able to buy everything on my list",albertsons,brand,Bakery/Bread
+survey_2,user_130,8/2/21,"i found most of the items on my list",costco,price,"Dairy/Dairy Byproducts"
+survey_2,user_130,8/2/21,"i found most of the items on my list",costco,price,"Vitamins & Supplements"
+survey_2,user_130,8/2/21,"i found most of the items on my list",costco,price,"Laundry/Home Cleaning"
+survey_8,user_145,9/19/21,"i found most of the items on my list","trader joe's",availability,"Frozen Foods"
+survey_3,user_145,8/11/21,"i found most of the items on my list",costco,brand,Bakery/Bread
+survey_3,user_145,8/11/21,"i found most of the items on my list",costco,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_185,8/18/21,"i found most of the items on my list","sam's club",price,"Dairy/Dairy Byproducts"
+survey_5,user_198,8/28/21,"i was able to buy everything on my list",target,price,"Dairy/Dairy Byproducts"
+survey_5,user_198,8/28/21,"i was able to buy everything on my list",target,brand,"Cereal (Ready To Eat)"
+survey_5,user_198,8/28/21,"i was able to buy everything on my list",target,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_224,9/8/21,"i found most of the items on my list",Target,Price,Beverages
+survey_2,user_238,8/5/21,"i was able to buy everything on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_238,8/5/21,"i was able to buy everything on my list",kroger,availability,"Pet Care"
+survey_5,user_248,8/24/21,"i was able to buy everything on my list",albertsons,price,Bakery/Bread
+survey_5,user_248,8/24/21,"i was able to buy everything on my list",albertsons,brand,"Dairy/Dairy Byproducts"
+survey_5,user_248,8/24/21,"i was able to buy everything on my list",albertsons,brand,"Cereal (Ready To Eat)"
+survey_3,user_266,8/11/21,"i was able to buy everything on my list",target,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_335,8/5/21,"i was able to buy everything on my list",costco,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_290,8/29/21,"i found most of the items on my list","sam's club",availability,Bakery/Bread
+survey_9,user_389,9/24/21,"i found most of the items on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_1753,9/21/21,"i was able to buy everything on my list",costco,availability,Bakery/Bread
+survey_4,user_1814,8/18/21,"i was able to buy everything on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_1887,9/8/21,"i was able to buy everything on my list",Target,Availability,Coffee/Tea
+survey_7,user_1892,9/7/21,"i was able to buy everything on my list",Walmart,Price,"Frozen Foods"
+survey_3,user_2104,8/13/21,"i found most of the items on my list","sam's club",price,Bakery/Bread
+survey_6,user_2160,9/3/21,"i found most of the items on my list",Albertsons,Availability,"Frozen Foods"
+survey_1,user_2077,8/1/21,"i was able to buy everything on my list",kroger,brand,"Vitamins & Supplements"
+survey_7,user_2133,9/10/21,"i was able to buy everything on my list",Walmart,Price,"Frozen Foods"
+survey_10,user_301,9/27/21,"i was able to buy everything on my list",target,availability,Coffee/Tea
+survey_9,user_551,9/22/21,"i was able to buy everything on my list","whole foods",availability,Bakery/Bread
+survey_1,user_566,8/1/21,"i found most of the items on my list",kroger,price,"Grains, Rice, Pasta And Sauce"
+survey_1,user_566,8/1/21,"i found most of the items on my list",kroger,price,"Canned Goods"
+survey_5,user_597,8/26/21,"i found most of the items on my list",kroger,availability,"Canned Goods"
+survey_3,user_623,8/15/21,"i was able to buy everything on my list",costco,price,Beverages
+survey_3,user_650,8/15/21,"i found most of the items on my list","sam's club",price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_5,user_673,8/28/21,"i was able to buy everything on my list",target,availability,"Pet Care"
+survey_4,user_660,8/18/21,"i was able to buy everything on my list","trader joe's",availability,Beverages
+survey_4,user_660,8/18/21,"i was able to buy everything on my list","trader joe's",price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_748,8/31/21,"i was able to buy everything on my list",Albertsons,Brand,Coffee/Tea
+survey_6,user_748,8/31/21,"i was able to buy everything on my list",Albertsons,Brand,"Cereal (Ready To Eat)"
+survey_2,user_753,8/2/21,"i was able to buy everything on my list",walmart,price,"Personal Care & Beauty Health"
+survey_3,user_758,8/10/21,"i found most of the items on my list",walmart,price,"Laundry/Home Cleaning"
+survey_9,user_762,9/26/21,"i found most of the items on my list",walmart,brand,"Dairy/Dairy Byproducts"
+survey_9,user_875,9/21/21,"i was able to buy everything on my list",albertsons,availability,Coffee/Tea
+survey_9,user_3081,9/21/21,"i was able to buy everything on my list","trader joe's",brand,Coffee/Tea
+survey_8,user_834,9/14/21,"i was able to buy everything on my list","whole foods",brand,"Dairy/Dairy Byproducts"
+survey_5,user_3041,8/25/21,"i was able to buy everything on my list",costco,price,"Frozen Foods"
+survey_5,user_3052,8/29/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_3130,8/16/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_8,user_1019,9/19/21,"i was able to buy everything on my list",costco,price,"Beer, Wine & Spirits"
+survey_8,user_1021,9/19/21,"i was able to buy everything on my list",target,brand,"Grains, Rice, Pasta And Sauce"
+survey_2,user_3228,8/2/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_7,user_3261,9/12/21,"i was able to buy everything on my list",Target,Price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_2,user_3049,8/3/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_1020,9/1/21,"i was able to buy everything on my list",Costco,Brand,"Frozen Foods"
+survey_2,user_1123,8/2/21,"i found most of the items on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_3,user_1155,8/12/21,"i was able to buy everything on my list","sam's club",brand,"Laundry/Home Cleaning"
+survey_6,user_3128,9/3/21,"i was able to buy everything on my list",Target,Price,Beverages
+survey_9,user_3189,9/22/21,"i was able to buy everything on my list",costco,price,"Frozen Foods"
+survey_3,user_3229,8/9/21,"i found most of the items on my list",costco,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_3229,8/9/21,"i found most of the items on my list",costco,price,Bakery/Bread
+survey_9,user_3263,9/22/21,"i was able to buy everything on my list",target,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_3263,9/22/21,"i was able to buy everything on my list",target,availability,"Personal Care & Beauty Health"
+survey_6,user_3281,9/2/21,"i was able to buy everything on my list",Target,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_3281,9/2/21,"i was able to buy everything on my list",Target,Availability,Beverages
+survey_9,user_3332,9/22/21,"i was able to buy everything on my list",target,brand,"Beer, Wine & Spirits"
+survey_9,user_3332,9/22/21,"i was able to buy everything on my list",target,brand,"Canned Goods"
+survey_9,user_3332,9/22/21,"i was able to buy everything on my list",target,brand,"Grains, Rice, Pasta And Sauce"
+survey_6,user_3262,9/3/21,"i was able to buy everything on my list",Kroger,Brand,"Frozen Foods"
+survey_8,user_3424,9/14/21,"i was able to buy everything on my list",walmart,brand,"Grains, Rice, Pasta And Sauce"
+survey_8,user_3468,9/13/21,"i found most of the items on my list",walmart,availability,Beverages
+survey_2,user_3471,8/6/21,"i was able to buy everything on my list",target,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_3534,8/7/21,"i was able to buy everything on my list",kroger,brand,Beverages
+survey_2,user_1100,8/2/21,"i found most of the items on my list","whole foods",price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_1100,8/2/21,"i found most of the items on my list","whole foods",availability,"Grains, Rice, Pasta And Sauce"
+survey_2,user_1338,8/4/21,"i found most of the items on my list",target,availability,"Personal Care & Beauty Health"
+survey_3,user_3599,8/11/21,"i was able to buy everything on my list",walmart,price,Bakery/Bread
+survey_5,user_5087,8/27/21,"i was able to buy everything on my list",target,availability,"Cereal (Ready To Eat)"
+survey_3,user_5225,8/15/21,"i was able to buy everything on my list",albertsons,brand,"Canned Goods"
+survey_3,user_5222,8/9/21,"i found most of the items on my list",kroger,availability,Beverages
+survey_6,user_5365,9/4/21,"i was able to buy everything on my list",Walmart,Availability,"Dairy/Dairy Byproducts"
+survey_5,user_5495,8/25/21,"i found most of the items on my list","whole foods",brand,"Personal Care & Beauty Health"
+survey_6,user_5240,9/5/21,"i was able to buy everything on my list",Kroger,Price,"Canned Goods"
+survey_4,user_5375,8/16/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_7,user_4815,9/8/21,"i was able to buy everything on my list",Walmart,Availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_5,user_4832,8/24/21,"i found most of the items on my list",walmart,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_5,user_4832,8/24/21,"i found most of the items on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_4640,9/21/21,"i was able to buy everything on my list",walmart,price,"Laundry/Home Cleaning"
+survey_8,user_4750,9/19/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_4,user_4909,8/21/21,"i was able to buy everything on my list",target,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_9,user_5017,9/21/21,"i found most of the items on my list",costco,price,"Personal Care & Beauty Health"
+survey_8,user_5484,9/13/21,"i was able to buy everything on my list",walmart,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_5491,8/23/21,"i was able to buy everything on my list",kroger,availability,"Canned Goods"
+survey_7,user_5613,9/12/21,"i was able to buy everything on my list",Walmart,Availability,Bakery/Bread
+survey_10,user_5624,9/27/21,"i was able to buy everything on my list",target,price,"Personal Care & Beauty Health"
+survey_8,user_5704,9/15/21,"i found most of the items on my list",costco,brand,"Cereal (Ready To Eat)"
+survey_8,user_5704,9/15/21,"i found most of the items on my list",costco,availability,Beverages
+survey_10,user_5824,9/29/21,"i was able to buy everything on my list",kroger,price,"Canned Goods"
+survey_10,user_5824,9/29/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_10,user_5861,9/29/21,"i found most of the items on my list",albertsons,brand,"Baby Care"
+survey_10,user_5861,9/29/21,"i found most of the items on my list",albertsons,brand,"Paper (Tissue, Paper Towels, Etc.)"
+survey_4,user_5021,8/21/21,"i found most of the items on my list",walmart,brand,Beverages
+survey_8,user_3681,9/14/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_5,user_3691,8/29/21,"i was able to buy everything on my list",costco,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_3691,8/29/21,"i was able to buy everything on my list",costco,brand,"Laundry/Home Cleaning"
+survey_8,user_3732,9/13/21,"i was able to buy everything on my list",walmart,availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_6,user_3669,9/4/21,"i was able to buy everything on my list",Walmart,Price,Bakery/Bread
+survey_9,user_3709,9/25/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_9,user_3721,9/24/21,"i found most of the items on my list","trader joe's",price,"Dairy/Dairy Byproducts"
+survey_4,user_3734,8/21/21,"i was able to buy everything on my list",walmart,brand,"Dairy/Dairy Byproducts"
+survey_8,user_3842,9/14/21,"i was able to buy everything on my list","whole foods",brand,"Grains, Rice, Pasta And Sauce"
+survey_7,user_4026,9/8/21,"i was able to buy everything on my list",Costco,Availability,"Paper (Tissue, Paper Towels, Etc.)"
+survey_8,user_3848,9/19/21,"i found most of the items on my list","trader joe's",price,"Grains, Rice, Pasta And Sauce"
+survey_5,user_3928,8/24/21,"i was able to buy everything on my list","sam's club",availability,"Grains, Rice, Pasta And Sauce"
+survey_3,user_4088,8/14/21,"i found most of the items on my list",kroger,availability,Beverages
+survey_3,user_4202,8/12/21,"i was able to buy everything on my list",costco,brand,"Cereal (Ready To Eat)"
+survey_5,user_4316,8/29/21,"i was able to buy everything on my list",target,availability,"Baby Care"
+survey_5,user_2184,8/29/21,"i was able to buy everything on my list",kroger,availability,Beverages
+survey_6,user_2193,9/4/21,"i found only a few of the items on my list",Walmart,Availability,Beverages
+survey_2,user_2205,8/6/21,"i was able to buy everything on my list","trader joe's",availability,"Frozen Foods"
+survey_3,user_2229,8/9/21,"i found most of the items on my list",kroger,price,Beverages
+survey_3,user_2231,8/10/21,"i was able to buy everything on my list",target,brand,Bakery/Bread
+survey_3,user_2231,8/10/21,"i was able to buy everything on my list",target,price,"Personal Care & Beauty Health"
+survey_8,user_2328,9/19/21,"i found most of the items on my list",costco,availability,Bakery/Bread
+survey_8,user_2328,9/19/21,"i found most of the items on my list",costco,availability,"Dairy/Dairy Byproducts"
+survey_8,user_2367,9/14/21,"i was able to buy everything on my list",walmart,availability,Beverages
+survey_3,user_2583,8/12/21,"i was able to buy everything on my list","sam's club",price,Beverages
+survey_3,user_2525,8/15/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_2650,8/9/21,"i was able to buy everything on my list",walmart,brand,Bakery/Bread
+survey_7,user_2769,9/10/21,"i found most of the items on my list",Kroger,Availability,"Dairy/Dairy Byproducts"
+survey_7,user_2769,9/10/21,"i found most of the items on my list",Kroger,Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_2812,8/18/21,"i found most of the items on my list","sam's club",price,"Vitamins & Supplements"
+survey_6,user_4336,8/30/21,"i was able to buy everything on my list",Walmart,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_4350,9/28/21,"i was able to buy everything on my list","sam's club",price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_2,user_4440,8/8/21,"i found most of the items on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_3,user_4358,8/12/21,"i was able to buy everything on my list",kroger,availability,"Personal Care & Beauty Health"
+survey_3,user_4376,8/11/21,"i found most of the items on my list",walmart,brand,"Laundry/Home Cleaning"
+survey_7,user_4552,9/11/21,"i was able to buy everything on my list",Target,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_4608,8/20/21,"i found most of the items on my list",target,availability,"Grains, Rice, Pasta And Sauce"
+survey_8,user_4392,9/16/21,"i was able to buy everything on my list","trader joe's",availability,"Dairy/Dairy Byproducts"
+survey_8,user_4392,9/16/21,"i was able to buy everything on my list","trader joe's",price,"Grains, Rice, Pasta And Sauce"
+survey_8,user_4392,9/16/21,"i was able to buy everything on my list","trader joe's",availability,"Cereal (Ready To Eat)"
+survey_5,user_4518,8/29/21,"i was able to buy everything on my list",albertsons,availability,"Dairy/Dairy Byproducts"
+survey_4,user_4537,8/18/21,"i was able to buy everything on my list",walmart,availability,"Canned Goods"
+survey_4,user_4537,8/18/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_3,user_4560,8/9/21,"i was able to buy everything on my list",kroger,price,"Vitamins & Supplements"
+survey_6,user_4612,9/3/21,"i was able to buy everything on my list","Sam's Club",Brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_4612,9/3/21,"i was able to buy everything on my list","Sam's Club",Brand,"Frozen Foods"
+survey_2,user_4577,8/4/21,"i found most of the items on my list","sam's club",brand,"Cereal (Ready To Eat)"
+survey_3,user_4591,8/15/21,"i was able to buy everything on my list",kroger,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_4636,8/9/21,"i was able to buy everything on my list",albertsons,availability,"Cereal (Ready To Eat)"
+survey_7,user_4682,9/11/21,"i was able to buy everything on my list",Walmart,Price,"Frozen Foods"
+survey_7,user_4682,9/11/21,"i was able to buy everything on my list",Walmart,Availability,Beverages
+survey_4,user_4734,8/21/21,"i was able to buy everything on my list","whole foods",availability,"Dairy/Dairy Byproducts"
+survey_4,user_4734,8/21/21,"i was able to buy everything on my list","whole foods",availability,"Frozen Foods"
+survey_5,user_4738,8/29/21,"i was able to buy everything on my list",albertsons,availability,Beverages
+survey_2,user_4742,8/2/21,"i was able to buy everything on my list",costco,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_4765,8/10/21,"i found most of the items on my list",costco,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_4765,8/10/21,"i found most of the items on my list",costco,availability,"Grains, Rice, Pasta And Sauce"
+survey_3,user_4765,8/10/21,"i found most of the items on my list",costco,price,Bakery/Bread
+survey_3,user_1452,8/10/21,"i was able to buy everything on my list","trader joe's",availability,"Canned Goods"
+survey_10,user_1458,9/29/21,"i was able to buy everything on my list",target,availability,"Dairy/Dairy Byproducts"
+survey_8,user_1490,9/17/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_8,user_1490,9/17/21,"i was able to buy everything on my list",kroger,brand,"Cereal (Ready To Eat)"
+survey_8,user_1491,9/19/21,"i found most of the items on my list",target,brand,"Personal Care & Beauty Health"
+survey_4,user_1522,8/18/21,"i was able to buy everything on my list","sam's club",brand,Beverages
+survey_5,user_1576,8/28/21,"i was able to buy everything on my list",target,availability,"Personal Care & Beauty Health"
+survey_10,user_1529,9/28/21,"i was able to buy everything on my list",walmart,price,Beverages
+survey_10,user_1529,9/28/21,"i was able to buy everything on my list",walmart,price,Bakery/Bread
+survey_5,user_1626,8/24/21,"i found most of the items on my list",target,availability,Bakery/Bread
+survey_6,user_1684,9/4/21,"i was able to buy everything on my list","Trader Joe's",Price,"Frozen Foods"
+survey_5,user_1719,8/26/21,"i was able to buy everything on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_1616,8/26/21,"i was able to buy everything on my list",kroger,price,"Frozen Foods"
+survey_8,user_1634,9/18/21,"i was able to buy everything on my list",walmart,price,"Beer, Wine & Spirits"
+survey_8,user_1634,9/18/21,"i was able to buy everything on my list",walmart,availability,"Vitamins & Supplements"
+survey_5,user_138,8/23/21,"i was able to buy everything on my list",kroger,availability,"Canned Goods"
+survey_2,user_131,8/2/21,"i was able to buy everything on my list",walmart,price,"Cereal (Ready To Eat)"
+survey_5,user_139,8/27/21,"i found most of the items on my list",target,price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_157,8/14/21,"i was able to buy everything on my list",albertsons,availability,Bakery/Bread
+survey_8,user_168,9/14/21,"i was able to buy everything on my list",target,brand,Beverages
+survey_9,user_282,9/25/21,"i found most of the items on my list",walmart,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_319,8/26/21,"i was able to buy everything on my list","trader joe's",brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_160,9/4/21,"i found most of the items on my list",Walmart,Availability,"Grains, Rice, Pasta And Sauce"
+survey_5,user_183,8/25/21,"i was able to buy everything on my list",walmart,price,"Cereal (Ready To Eat)"
+survey_7,user_390,9/10/21,"i was able to buy everything on my list",Target,Price,"Laundry/Home Cleaning"
+survey_5,user_428,8/27/21,"i was able to buy everything on my list","sam's club",price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_3,user_1723,8/15/21,"i was able to buy everything on my list",costco,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_1723,8/15/21,"i was able to buy everything on my list",costco,price,"Laundry/Home Cleaning"
+survey_3,user_1723,8/15/21,"i was able to buy everything on my list",costco,price,Coffee/Tea
+survey_2,user_1966,8/7/21,"i was able to buy everything on my list",kroger,price,Bakery/Bread
+survey_5,user_1998,8/29/21,"i was able to buy everything on my list",albertsons,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_2048,8/23/21,"i found most of the items on my list",kroger,availability,Bakery/Bread
+survey_6,user_2052,9/4/21,"i was able to buy everything on my list",Walmart,Availability,"Vitamins & Supplements"
+survey_4,user_2090,8/22/21,"i found most of the items on my list",kroger,availability,Bakery/Bread
+survey_4,user_2090,8/22/21,"i found most of the items on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_10,user_2135,9/28/21,"i was able to buy everything on my list",walmart,price,"Pet Care"
+survey_5,user_558,8/24/21,"i was able to buy everything on my list",target,brand,"Canned Goods"
+survey_2,user_595,8/8/21,"i was able to buy everything on my list","sam's club",price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_622,9/1/21,"i was able to buy everything on my list",Kroger,Price,"Pet Care"
+survey_2,user_624,8/4/21,"i found most of the items on my list",albertsons,price,"Personal Care & Beauty Health"
+survey_2,user_669,8/6/21,"i found most of the items on my list",kroger,availability,Bakery/Bread
+survey_1,user_700,8/1/21,"i was able to buy everything on my list",costco,availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_754,8/24/21,"i was able to buy everything on my list",costco,brand,Bakery/Bread
+survey_5,user_754,8/24/21,"i was able to buy everything on my list",costco,price,"Personal Care & Beauty Health"
+survey_4,user_800,8/18/21,"i was able to buy everything on my list",albertsons,availability,Bakery/Bread
+survey_10,user_908,9/30/21,"i was able to buy everything on my list",walmart,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_10,user_908,9/30/21,"i was able to buy everything on my list",walmart,price,"Laundry/Home Cleaning"
+survey_6,user_915,8/31/21,"i was able to buy everything on my list",Walmart,Availability,"Cereal (Ready To Eat)"
+survey_2,user_919,8/5/21,"i was able to buy everything on my list",target,availability,"Personal Care & Beauty Health"
+survey_5,user_2938,8/25/21,"i was able to buy everything on my list",costco,availability,"Dairy/Dairy Byproducts"
+survey_3,user_2993,8/13/21,"i was able to buy everything on my list",target,availability,Bakery/Bread
+survey_2,user_1045,8/7/21,"i was able to buy everything on my list",costco,price,"Baby Care"
+survey_2,user_3239,8/6/21,"i was able to buy everything on my list",costco,price,Coffee/Tea
+survey_6,user_3284,8/31/21,"i was able to buy everything on my list","Trader Joe's",Availability,"Dairy/Dairy Byproducts"
+survey_5,user_3379,8/24/21,"i was able to buy everything on my list",walmart,brand,"Personal Care & Beauty Health"
+survey_6,user_3523,8/31/21,"i found most of the items on my list","Sam's Club",Availability,"Frozen Foods"
+survey_2,user_3539,8/3/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"
+survey_3,user_1274,8/9/21,"i was able to buy everything on my list",kroger,brand,"Frozen Foods"
+survey_5,user_1325,8/24/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_5,user_1352,8/25/21,"i was able to buy everything on my list",kroger,price,"Grains, Rice, Pasta And Sauce"
+survey_7,user_3621,9/11/21,"i was able to buy everything on my list",Walmart,Brand,"Personal Care & Beauty Health"
+survey_9,user_1390,9/26/21,"i was able to buy everything on my list","sam's club",price,"Paper (Tissue, Paper Towels, Etc.)"
+survey_7,user_1304,9/10/21,"i found most of the items on my list",Target,Brand,"Dairy/Dairy Byproducts"
+survey_7,user_5133,9/10/21,"i found most of the items on my list",Kroger,Price,"Dairy/Dairy Byproducts"
+survey_10,user_5204,9/28/21,"i was able to buy everything on my list",walmart,price,"Grains, Rice, Pasta And Sauce"
+survey_3,user_5300,8/11/21,"i was able to buy everything on my list",costco,brand,Bakery/Bread
+survey_10,user_5392,9/27/21,"i was able to buy everything on my list",walmart,availability,"Dairy/Dairy Byproducts"
+survey_4,user_5469,8/21/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_6,user_5486,8/30/21,"i found most of the items on my list",Walmart,Price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_5,user_5499,8/26/21,"i was able to buy everything on my list",kroger,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_5614,9/5/21,"i was able to buy everything on my list",Kroger,Availability,"Dairy/Dairy Byproducts"
+survey_3,user_5272,8/9/21,"i was able to buy everything on my list",walmart,price,"Laundry/Home Cleaning"
+survey_3,user_5272,8/9/21,"i was able to buy everything on my list",walmart,availability,"Personal Care & Beauty Health"
+survey_5,user_5443,8/24/21,"i found most of the items on my list",target,brand,Beverages
+survey_6,user_5639,9/4/21,"i was able to buy everything on my list","Sam's Club",Availability,"Cereal (Ready To Eat)"
+survey_6,user_5639,9/4/21,"i was able to buy everything on my list","Sam's Club",Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_5650,9/4/21,"i found most of the items on my list",Kroger,Availability,"Dairy/Dairy Byproducts"
+survey_7,user_5687,9/11/21,"i found most of the items on my list","Trader Joe's",Price,"Beer, Wine & Spirits"
+survey_7,user_5693,9/7/21,"i was able to buy everything on my list",Kroger,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_7,user_5753,9/12/21,"i found most of the items on my list",Walmart,Availability,Bakery/Bread
+survey_9,user_5829,9/22/21,"i was able to buy everything on my list",walmart,price,"Vitamins & Supplements"
+survey_10,user_5819,9/28/21,"i was able to buy everything on my list",walmart,availability,Bakery/Bread
+survey_5,user_4797,8/26/21,"i was able to buy everything on my list",kroger,price,"Canned Goods"
+survey_5,user_4797,8/26/21,"i was able to buy everything on my list",kroger,price,"Cereal (Ready To Eat)"
+survey_4,user_4666,8/22/21,"i found most of the items on my list",target,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_6,user_4725,9/5/21,"i was able to buy everything on my list",Kroger,Availability,Beverages
+survey_6,user_4725,9/5/21,"i was able to buy everything on my list",Kroger,Brand,"Laundry/Home Cleaning"
+survey_6,user_4725,9/5/21,"i was able to buy everything on my list",Kroger,Availability,"Beer, Wine & Spirits"
+survey_6,user_4725,9/5/21,"i was able to buy everything on my list",Kroger,Availability,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_4,user_4891,8/18/21,"i was able to buy everything on my list",kroger,price,"Dairy/Dairy Byproducts"
+survey_8,user_5003,9/13/21,"i was able to buy everything on my list",kroger,price,Beverages
+survey_4,user_3778,8/18/21,"i was able to buy everything on my list",target,price,"Cereal (Ready To Eat)"
+survey_5,user_3891,8/26/21,"i was able to buy everything on my list",kroger,price,"Beer, Wine & Spirits"
+survey_2,user_3976,8/3/21,"i was able to buy everything on my list",kroger,brand,"Cereal (Ready To Eat)"
+survey_4,user_4109,8/21/21,"i was able to buy everything on my list",walmart,price,"Dairy/Dairy Byproducts"
+survey_3,user_4117,8/10/21,"i was able to buy everything on my list","whole foods",price,"Dairy/Dairy Byproducts"
+survey_4,user_4163,8/17/21,"i found most of the items on my list",walmart,brand,"Baby Care"
+survey_6,user_4228,9/5/21,"i was able to buy everything on my list","Sam's Club",Availability,"Dairy/Dairy Byproducts"
+survey_3,user_2234,8/9/21,"i found most of the items on my list",walmart,availability,Bakery/Bread
+survey_9,user_2474,9/23/21,"i was able to buy everything on my list",target,availability,Beverages
+survey_10,user_2506,9/27/21,"i was able to buy everything on my list",walmart,price,"Cereal (Ready To Eat)"
+survey_2,user_2438,8/4/21,"i was able to buy everything on my list",target,brand,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_8,user_2452,9/17/21,"i found most of the items on my list",target,brand,"Dairy/Dairy Byproducts"
+survey_3,user_2556,8/11/21,"i was able to buy everything on my list",albertsons,availability,"Frozen Foods"
+survey_3,user_2657,8/10/21,"i found most of the items on my list","sam's club",price,"Dairy/Dairy Byproducts"
+survey_9,user_2609,9/21/21,"i was able to buy everything on my list",walmart,price,"Baby Care"
+survey_9,user_2643,9/21/21,"i was able to buy everything on my list",walmart,availability,"Beer, Wine & Spirits"
+survey_7,user_2715,9/11/21,"i was able to buy everything on my list",Walmart,Brand,"Beer, Wine & Spirits"
+survey_6,user_2757,9/1/21,"i was able to buy everything on my list","Trader Joe's",Brand,"Grains, Rice, Pasta And Sauce"
+survey_6,user_2757,9/1/21,"i was able to buy everything on my list","Trader Joe's",Brand,Bakery/Bread
+survey_3,user_2769,8/9/21,"i found most of the items on my list",kroger,price,"Snack Foods (Cookies, Candy, Crackers, Chips, Etc.)"
+survey_3,user_2840,8/11/21,"i was able to buy everything on my list",kroger,availability,"Dairy/Dairy Byproducts"

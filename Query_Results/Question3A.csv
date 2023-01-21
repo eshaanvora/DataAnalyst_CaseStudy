@@ -1,0 +1,41 @@
+location,trip_type,Num_Users
+"Whole Foods",other,7
+target,stock-up,261
+walmart,stock-up,521
+kroger,stock-up,280
+walmart,"grab & go",802
+target,"grab & go",398
+"Sam's Club",stock-up,221
+Costco,"grab & go",194
+"sam's club","fill in",146
+Kroger,"fill in",319
+albertsons,stock-up,93
+target,other,149
+kroger,"grab & go",506
+"trader joe's",stock-up,116
+"whole foods","grab & go",167
+Target,"returns and services",38
+albertsons,"grab & go",187
+"trader joe's","fill in",114
+albertsons,"fill in",126
+Walmart,other,132
+target,"fill in",346
+costco,stock-up,371
+"trader joe's","grab & go",148
+"trader joe's","returns and services",4
+Walmart,"fill in",582
+Walmart,"returns and services",54
+"Sam's Club","grab & go",170
+"whole foods","fill in",79
+kroger,"returns and services",12
+costco,"fill in",203
+"sam's club","returns and services",5
+albertsons,other,8
+"whole foods",stock-up,78
+Kroger,other,58
+"whole foods","returns and services",11
+Albertsons,"returns and services",3
+costco,other,47
+costco,"returns and services",9
+"trader joe's",other,6
+"sam's club",other,25
