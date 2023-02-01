@@ -22,10 +22,10 @@ Note:
 * CaseStudy_DA.twb
 * CaseStudy.sql
 * DA_CaseStudy.csv
-* DataAnalyst_CaseStudy.pdf
+* Instructions.pdf
 * DataUploader.py
 * /Query_Results
-* WriteUp_FinalVersion.docx
+* WriteUp_FinalVersion.pdf
 
 ## Known Errors
 
